@@ -7,7 +7,7 @@
 </p>
 <p align="left">
   No momento estou estudando desenvolvimento mobile Android, onde mais me identifiquei, pois
-  anteriormente fiz um curso FullStack de Java + Kotlin.
+  anteriormente fiz um curso de Desenvolvimento de Software de Mobile Kotlin + BackEnd Java.
 </p>
 <p align="left">
   Nesse curso criei uma API em Java, e depois reescrevi em Kotlin. O App, o frontEnd, foi criado no Android Studio, ele
